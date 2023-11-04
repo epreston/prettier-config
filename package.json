@@ -1,0 +1,35 @@
+{
+  "name": "@epreston/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier Configuration for my projects",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epreston/prettier-config.git"
+  },
+  "keywords": [
+    "prettier-config",
+    "shared",
+    "configuration"
+  ],
+  "author": "Ed Preston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epreston/prettier-config/issues"
+  },
+  "homepage": "https://github.com/epreston/prettier-config/tree/main/#readme",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
+  "peerDependenciesMeta": {
+    "prettier": {
+      "optional": true
+    }
+  },
+  "engines": {
+    "node": "^18.18.0 || >=20.9.0"
+  }
+}
