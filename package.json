@@ -1,6 +1,6 @@
 {
   "name": "@epreston/prettier-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Shared Prettier Configuration for my projects",
   "main": "index.json",
   "files": [
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/epreston/prettier-config/tree/main/#readme",
   "peerDependencies": {
-    "prettier": ">=3.0.0"
+    "prettier": ">=3.1.0"
   },
   "peerDependenciesMeta": {
     "prettier": {

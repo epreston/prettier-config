@@ -5,6 +5,9 @@ Shared [Prettier Configuration](https://prettier.io/docs/en/configuration.html) 
 [![NPM version][npm-badge]][npm-url]
 [![License][license-badge]][license-url]
 
+> Version 2.0.0+ adopts `--experimental-ternaries` described in the `prettier 3.1.0` [release notes](https://prettier.io/blog/2023/11/13/3.1.0.html).  
+> This can be an impactful change to file formatting for larger projects.
+
 ## Install
 
 ```sh
