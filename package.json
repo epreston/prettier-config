@@ -6,6 +6,9 @@
   "files": [
     "index.json"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "prettier-config",
     "shared",
