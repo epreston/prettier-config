@@ -6,10 +6,6 @@
   "files": [
     "index.json"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/epreston/prettier-config.git"
-  },
   "keywords": [
     "prettier-config",
     "shared",
@@ -17,9 +13,8 @@
   ],
   "author": "Ed Preston",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/epreston/prettier-config/issues"
-  },
+  "repository": "github:epreston/prettier-config",
+  "bugs": "https://github.com/epreston/prettier-config/issues",
   "homepage": "https://github.com/epreston/prettier-config/tree/main/#readme",
   "peerDependencies": {
     "prettier": ">=3.1.0"
