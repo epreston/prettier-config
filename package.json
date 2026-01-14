@@ -4,7 +4,10 @@
   "description": "Shared Prettier Configuration for my projects",
   "author": "Ed Preston",
   "license": "MIT",
-  "repository": "github:epreston/prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epreston/prettier-config.git"
+  },
   "bugs": "https://github.com/epreston/prettier-config/issues",
   "homepage": "https://github.com/epreston/prettier-config/tree/main/#readme",
   "keywords": [
