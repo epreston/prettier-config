@@ -22,7 +22,7 @@
     "index.json"
   ],
   "main": "index.json",
-  "packageManager": "npm@11.7.0",
+  "packageManager": "npm@11.8.0",
   "peerDependencies": {
     "prettier": ">=3.1.0"
   },
